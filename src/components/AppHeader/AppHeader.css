@@ -1,0 +1,13 @@
+.app-header{
+    width: 50vw;
+    display: flex;
+    align-items: flex-end;
+}
+.app-header h1{
+    font-size: 4vw;
+    flex-grow: 1;
+}
+.app-header h2{
+    font-size: 2vw;
+    color: grey;
+}
